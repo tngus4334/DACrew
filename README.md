@@ -1,5 +1,5 @@
 # DACrew
-![최종 데이크루4기_전체개요_page-0001](https://user-images.githubusercontent.com/80208535/214318266-ac8419b5-6a7a-4351-b09e-403bfd01d4bc.jpg)
+
 
 <img src="https://user-images.githubusercontent.com/80208535/214318266-ac8419b5-6a7a-4351-b09e-403bfd01d4bc.jpg"  width="700" height="370">
 <img src="https://user-images.githubusercontent.com/80208535/214318322-d3074cdd-6fae-4b7c-b0af-ab14cec696c8.jpg"  width="700" height="370">
