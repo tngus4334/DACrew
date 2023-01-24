@@ -1,4 +1,5 @@
 # DACrew
+데이터 : 아파트 실거래가 예측 경진대회 (https://dacon.io/competitions/official/21265/overview/description)
 
 ## 데이크루 PBL 제작 기획서
 <img src="https://user-images.githubusercontent.com/80208535/214318266-ac8419b5-6a7a-4351-b09e-403bfd01d4bc.jpg"  width="700" height="370">
