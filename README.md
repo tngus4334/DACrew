@@ -1,2 +1,11 @@
 # DACrew
-데이크루 4기 활동기록입니다.
+![최종 데이크루4기_전체개요_page-0001](https://user-images.githubusercontent.com/80208535/214318266-ac8419b5-6a7a-4351-b09e-403bfd01d4bc.jpg)
+![최종 데이크루4기_전체개요_page-0002](https://user-images.githubusercontent.com/80208535/214318322-d3074cdd-6fae-4b7c-b0af-ab14cec696c8.jpg)
+![최종 데이크루4기_전체개요_page-0003](https://user-images.githubusercontent.com/80208535/214318336-4baed10b-ec85-4536-9938-5ee75112eb54.jpg)
+![최종 데이크루4기_전체개요_page-0004](https://user-images.githubusercontent.com/80208535/214318343-a172186a-b4c7-4153-a46d-d7224d7d843f.jpg)
+![최종 데이크루4기_전체개요_page-0005](https://user-images.githubusercontent.com/80208535/214318366-455b3c76-3d81-421b-9321-893c804d7ff5.jpg)
+![최종 데이크루4기_전체개요_page-0006](https://user-images.githubusercontent.com/80208535/214318380-169934ca-ebda-441a-aa81-e83e64046849.jpg)
+![최종 데이크루4기_전체개요_page-0007](https://user-images.githubusercontent.com/80208535/214318418-ef9252b6-3a01-4ba4-849e-aca6d77afb2a.jpg)
+![최종 데이크루4기_전체개요_page-0008](https://user-images.githubusercontent.com/80208535/214318454-7ff1e67f-90c8-4f17-959c-b394011ba401.jpg)
+![최종 데이크루4기_전체개요_page-0009](https://user-images.githubusercontent.com/80208535/214318464-10ff8e78-a46c-4404-8117-040fa71dbbc3.jpg)
+![최종 데이크루4기_전체개요_page-0010](https://user-images.githubusercontent.com/80208535/214318483-1734f21c-63ca-4f3e-923d-1160fc08c588.jpg)
