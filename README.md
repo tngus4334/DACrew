@@ -1,6 +1,6 @@
 # DACrew
 
-## 기획서
+## 데이크루 PBL 제작 기획서
 <img src="https://user-images.githubusercontent.com/80208535/214318266-ac8419b5-6a7a-4351-b09e-403bfd01d4bc.jpg"  width="700" height="370">
 <img src="https://user-images.githubusercontent.com/80208535/214318322-d3074cdd-6fae-4b7c-b0af-ab14cec696c8.jpg"  width="700" height="370">
 <img src="https://user-images.githubusercontent.com/80208535/214318336-4baed10b-ec85-4536-9938-5ee75112eb54.jpg"  width="700" height="370">
