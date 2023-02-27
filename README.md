@@ -10,7 +10,6 @@
 아파트 실거래가 예측 경진대회 (https://dacon.io/competitions/official/21265/overview/description)
 
 [활동페이지]
-활동 페이지
 
 데이크루 4기 (https://dacon.io/competitions/official/236047/overview/description)
 
