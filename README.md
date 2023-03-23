@@ -2,8 +2,11 @@
 
 ## 🐥소개🐥
 
-데이크루(DACrew)는 데이콘 플랫폼 커뮤니티의 활성화를 위해 양질의 컨텐츠를 제작하는 서포터즈 
-그동안 데이콘에서 열렸던 대회의 데이터를 활용하여 프로젝트 기반 학습 자료(PBL)를 제작하는 활동
+데이크루(DACrew)는 데이콘 플랫폼 커뮤니티의 활성화를 위해 양질의 컨텐츠를 제작하는 서포터즈로
+
+그동안 데이콘에서 열렸던 대회의 데이터를 활용하여 프로젝트 기반 학습 자료(PBL)를 제작하는 활동입니다.
+
+팀 한남더힐은 **아파트 실거래가 예측 경진대회**를 활용하여 PBL을 작성하였습니다.
 
 
 ## 📊데이터📊
@@ -31,7 +34,7 @@
 👉Stage 6 우리 꼭 또 보자, 대회 상위권에서 🏆️ : https://dacon.io/competitions/official/236047/codeshare/7713
 
 
-## 데이크루 PBL 제작 기획서
+## 📄데이크루 PBL 제작 기획서📄
 <img src="https://user-images.githubusercontent.com/80208535/214318266-ac8419b5-6a7a-4351-b09e-403bfd01d4bc.jpg"  width="700" height="400">
 <img src="https://user-images.githubusercontent.com/80208535/214318322-d3074cdd-6fae-4b7c-b0af-ab14cec696c8.jpg"  width="700" height="400">
 <img src="https://user-images.githubusercontent.com/80208535/214318336-4baed10b-ec85-4536-9938-5ee75112eb54.jpg"  width="700" height="400">
