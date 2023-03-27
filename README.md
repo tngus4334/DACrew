@@ -23,17 +23,23 @@
 
 아래 링크를 클릭하시면 '아파트 실거래가 예측' 프로젝트의 전 스테이지를 보실 수 있습니다.
 
-👉Stage 1 한남더힐 내집마련 프로젝트 🏢 : https://dacon.io/competitions/official/236047/codeshare/7486
+👉Stage 1 한남더힐 내집마련 프로젝트 🏢
+https://dacon.io/competitions/official/236047/codeshare/7486
 
-👉Stage 2 넌 모르잖아, 알록달록한 데이터 시각화의 세상 🌈 : https://dacon.io/competitions/official/236047/codeshare/7614
+👉Stage 2 넌 모르잖아, 알록달록한 데이터 시각화의 세상 🌈
+https://dacon.io/competitions/official/236047/codeshare/7614
 
-👉Stage 3 이런걸 데이터 전처리 라고 하는거야 🤨 : https://dacon.io/competitions/official/236047/codeshare/7662
+👉Stage 3 이런걸 데이터 전처리 라고 하는거야 🤨
+https://dacon.io/competitions/official/236047/codeshare/7662
 
-👉Stage 4 고작 이 성능만 보고 그런 표정이 되는거에요?😶 : https://dacon.io/competitions/official/236047/codeshare/7663
+👉Stage 4 고작 이 성능만 보고 그런 표정이 되는거에요?😶
+https://dacon.io/competitions/official/236047/codeshare/7663
 
-👉Stage 5 브라보 ! 멋지다, 부스팅모델 👏👏 : https://dacon.io/competitions/official/236047/codeshare/7680
+👉Stage 5 브라보 ! 멋지다, 부스팅모델 👏👏
+https://dacon.io/competitions/official/236047/codeshare/7680
 
-👉Stage 6 우리 꼭 또 보자, 대회 상위권에서 🏆️ : https://dacon.io/competitions/official/236047/codeshare/7713
+👉Stage 6 우리 꼭 또 보자, 대회 상위권에서 🏆️
+https://dacon.io/competitions/official/236047/codeshare/7713
 
 
 ## 📄데이크루 PBL 제작 기획서📄
