@@ -12,7 +12,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/tngus4334"><img src="" width="200px;" alt=""/><br /><sub><b>유수현 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/tngus4334"><img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20140211_250%2Fleblanc1022_1392050591356ja9oz_JPEG%2F2014-02-11_01%253B39%253B27.jpg&type=sc960_832" width="200px;" alt=""/><br /><sub><b>유수현 </b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/jiazzang"><img src="" width="200px;" alt=""/><br /><sub><b>강지아 </b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/tngus4334"><img src="" width="200px;" alt=""/><br /><sub><b>김민석</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/JHPark"><img src="" width="200px;" alt=""/><br /><sub><b>박종호</b></sub></a><br /></td>
