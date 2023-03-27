@@ -19,15 +19,15 @@
     </tr>
   </tbody>
 </table>
-<br>
+<br><br>
 ## 📊데이터📊
 
 아파트 실거래가 예측 경진대회 (https://dacon.io/competitions/official/21265/overview/description)
-<br>
+<br><br>
 ## 📁활동페이지📁
 
 데이크루 4기 (https://dacon.io/competitions/official/236047/overview/description)
-<br>
+<br><br>
 ## 🚀목차🚀
 
 아래 링크를 클릭하시면 '아파트 실거래가 예측' 프로젝트의 전 스테이지를 보실 수 있습니다.
@@ -50,7 +50,7 @@ https://dacon.io/competitions/official/236047/codeshare/7680
 👉Stage 6 우리 꼭 또 보자, 대회 상위권에서 🏆️<br>
 https://dacon.io/competitions/official/236047/codeshare/7713
 
-<br>
+<br><br>
 ## 📄데이크루 PBL 제작 기획서📄
 
 
