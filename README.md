@@ -30,7 +30,7 @@
 
 ## 📊데이터📊
 
-아파트 실거래가 예측 경진대회 (https://dacon.io/competitions/official/21265/overview/description)
+[아파트 실거래가 예측 경진대회](https://dacon.io/competitions/official/21265/overview/description)
 <br><br>
 
 ## 📁활동페이지📁
