@@ -42,8 +42,7 @@
 
 아래 링크를 클릭하시면 '아파트 실거래가 예측' 프로젝트의 전 스테이지를 보실 수 있습니다.
 
-[👉Stage 1 한남더힐 내집마련 프로젝트 🏢]
-(https://dacon.io/competitions/official/236047/codeshare/7486)
+[👉Stage 1 한남더힐 내집마련 프로젝트 🏢](https://dacon.io/competitions/official/236047/codeshare/7486)
 
 👉Stage 2 넌 모르잖아, 알록달록한 데이터 시각화의 세상 🌈<br>
 https://dacon.io/competitions/official/236047/codeshare/7614
