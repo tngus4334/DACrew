@@ -44,8 +44,7 @@
 
 [👉Stage 1 한남더힐 내집마련 프로젝트 🏢](https://dacon.io/competitions/official/236047/codeshare/7486)
 
-[👉Stage 2 넌 모르잖아, 알록달록한 데이터 시각화의 세상 🌈]
-(https://dacon.io/competitions/official/236047/codeshare/7614)
+[👉Stage 2 넌 모르잖아, 알록달록한 데이터 시각화의 세상 🌈](https://dacon.io/competitions/official/236047/codeshare/7614)
 
 [👉Stage 3 이런걸 데이터 전처리 라고 하는거야 🤨](https://dacon.io/competitions/official/236047/codeshare/7662)
 
