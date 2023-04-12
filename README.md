@@ -8,14 +8,15 @@
 
 팀 🏢**한남더힐**🏢은 `아파트 실거래가 예측 경진대회`를 활용하여 PBL을 작성하였습니다.
 <br><br>
-
-> 📊**데이터** : [아파트 실거래가 예측 경진대회](https://dacon.io/competitions/official/21265/overview/description)
+```
+📊**데이터** : [아파트 실거래가 예측 경진대회](https://dacon.io/competitions/official/21265/overview/description)
 
 📁**활동페이지** : [데이크루 4기 활동페이지](https://dacon.io/competitions/official/236047/overview/description)
 
 ⌛**활동 기간** : 2023-01-05 ~ 2023-02-24
 
 🏆**결과** : 27개의 팀 중 🥇**1위**🥇를 달성하였습니다.
+```
 <br><br>
 
 
