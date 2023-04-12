@@ -1,7 +1,15 @@
 # DACrew 4기
 
-## 🐥데이크루 소개🐥
+📊**데이터** : [아파트 실거래가 예측 경진대회](https://dacon.io/competitions/official/21265/overview/description)
 
+📁**활동페이지** : [데이크루 4기 활동페이지](https://dacon.io/competitions/official/236047/overview/description)
+
+⌛**활동 기간** : 2023-01-05 ~ 2023-02-24
+
+🏆**결과** : 27개의 팀 중 🥇**1위**🥇를 달성하였습니다.
+
+---
+## 🐥DACrew란?🐥
 데이크루(DACrew)는 데이콘 플랫폼 커뮤니티의 활성화를 위해 양질의 컨텐츠를 제작하는 서포터즈로
 
 그동안 데이콘에서 열렸던 대회의 데이터를 활용하여 프로젝트 기반 학습 자료(PBL)를 제작하는 활동입니다.
@@ -9,17 +17,7 @@
 팀 🏢**한남더힐**🏢은 `아파트 실거래가 예측 경진대회`를 활용하여 PBL을 작성하였습니다.
 <br><br>
 
-📊**데이터**📊 : [아파트 실거래가 예측 경진대회](https://dacon.io/competitions/official/21265/overview/description)
-<br>
-📁**활동페이지**📁 : [데이크루 4기 활동페이지](https://dacon.io/competitions/official/236047/overview/description)
-<br>
-프로젝트 기간 : 
-<br><br>
-
-## 🏆결과🏆
-
-27개의 팀 중 🥇**1위**🥇를 달성하였습니다.
-<br><br>
+## 프로젝트 설명
 
 ## 👦한남더힐 팀원👧
 <table>
