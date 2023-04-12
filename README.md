@@ -1,5 +1,5 @@
 # DACrew 4기
-### 프로젝트 기반 학습 자료(Project Based Learning, PBL) 제작
+### 📚 프로젝트 기반 학습 자료(Project Based Learning, PBL) 제작
 📊**데이터** : [아파트 실거래가 예측 경진대회](https://dacon.io/competitions/official/21265/overview/description)
 
 📁**활동페이지** : [데이크루 4기 활동페이지](https://dacon.io/competitions/official/236047/overview/description)
