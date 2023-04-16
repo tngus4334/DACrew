@@ -11,8 +11,8 @@
 
 
 📊 **데이터** : [아파트 실거래가 예측 경진대회](https://dacon.io/competitions/official/21265/overview/description)
-📊 **외부 데이터** : [국토교통부 전국 법정동 데이터](https://www.data.go.kr/data/15063424/fileData.do)<br>
-                     [카카오 API 지도/로컬](https://developers.kakao.com/product/map)
+
+📊 **외부 데이터** : [국토교통부 전국 법정동 데이터](https://www.data.go.kr/data/15063424/fileData.do), [카카오 API 지도/로컬](https://developers.kakao.com/product/map)
 
 📁 **활동페이지** : [데이크루 4기 활동페이지](https://dacon.io/competitions/official/236047/overview/description)
 
