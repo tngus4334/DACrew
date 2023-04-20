@@ -9,7 +9,6 @@
 팀 🏢**한남더힐**🏢은 `아파트 실거래가 예측 경진대회`를 활용하여 PBL을 작성하였습니다.
 <br><br>
 
-
 📊 **데이터** : [아파트 실거래가 예측 경진대회](https://dacon.io/competitions/official/21265/overview/description)
 
 📊 **외부 데이터** : [국토교통부 전국 법정동 데이터](https://www.data.go.kr/data/15063424/fileData.do), [카카오 API 지도/로컬](https://developers.kakao.com/product/map)
@@ -22,7 +21,6 @@
 
 🎤 **우승자 인터뷰** : [데이크루 4기_🏢한남더힐🏢](https://dacon.io/ranking/interview/258?page=1)
 <br><br>
-
 
 ## 🏢한남더힐🏢 팀원
 <table>
@@ -53,7 +51,6 @@
 [👉Stage 5 브라보 ! 멋지다, 부스팅모델 👏👏](https://dacon.io/competitions/official/236047/codeshare/7680)
 
 [👉Stage 6 우리 꼭 또 보자, 대회 상위권에서 🏆️](https://dacon.io/competitions/official/236047/codeshare/7713)
-
 <br><br>
 
 ## 📄데이크루 PBL 제작 기획서
