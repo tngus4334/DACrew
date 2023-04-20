@@ -58,7 +58,7 @@
 
 ## 📄데이크루 PBL 제작 기획서
 
-<center><img src="https://user-images.githubusercontent.com/80208535/227220561-f83184fe-1a75-487c-9333-f0bce56c50da.jpg"  width="700" height="400"></center>
+<p style="text-align: center;"><center><img src="https://user-images.githubusercontent.com/80208535/227220561-f83184fe-1a75-487c-9333-f0bce56c50da.jpg"  width="700" height="400"></p>
 
 <center><img src="https://user-images.githubusercontent.com/80208535/227220596-228b0c03-54da-49f0-888f-40b9e998d7df.jpg"  width="700" height="400"></center>
 
